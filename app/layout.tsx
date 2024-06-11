@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   description:
     'Subscribe to "Get Inspired Weekly" for a curated selection of project ideas delivered to your inbox every week, spanning tech, design, entrepreneurship, and more. Stay ahead of the curve and fuel your creativity with actionable insights and resources to turn inspiration into action',
 
-  metadataBase: new URL("https://web-dev-newsletter.vercel.app"),
+  metadataBase: new URL("https://web-dev-newslatter.vercel.app"),
 
   authors: {
     name: "chensokheng",
@@ -22,7 +22,7 @@ export const metadata: Metadata = {
     title: "Daily Newsletter",
     description:
       'Subscribe to "Get Inspired Weekly" for a curated selection of project ideas delivered to your inbox every week, spanning tech, design, entrepreneurship, and more. Stay ahead of the curve and fuel your creativity with actionable insights and resources to turn inspiration into action',
-    url: "https://web-dev-newsletter.vercel.app",
+    url: "https://web-dev-newslatter.vercel.app",
     siteName: "Daily Newsletter",
     images: "/og.png",
     type: "website",
