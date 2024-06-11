@@ -8,26 +8,26 @@ import { cn } from "@/lib/utils";
 const bricolageGrotesque = Bricolage_Grotesque({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Daily Newsletter",
+  title: "A.A.A Newsletter",
   description:
     'Subscribe to "Get Inspired Weekly" for a curated selection of project ideas delivered to your inbox every week, spanning tech, design, entrepreneurship, and more. Stay ahead of the curve and fuel your creativity with actionable insights and resources to turn inspiration into action',
 
   metadataBase: new URL("https://web-dev-newslatter.vercel.app"),
 
   authors: {
-    name: "chensokheng",
+    name: "A.A.A",
   },
 
   openGraph: {
-    title: "Daily Newsletter",
+    title: "A.A.A Newsletter",
     description:
       'Subscribe to "Get Inspired Weekly" for a curated selection of project ideas delivered to your inbox every week, spanning tech, design, entrepreneurship, and more. Stay ahead of the curve and fuel your creativity with actionable insights and resources to turn inspiration into action',
     url: "https://web-dev-newslatter.vercel.app",
-    siteName: "Daily Newsletter",
+    siteName: "A.A.A Newsletter",
     images: "/og.png",
     type: "website",
   },
-  keywords: ["daily web coding", "chensokheng", "dailywebcoding"],
+  keywords: ["code with abdo", "A.A.A", "codewithabdo", "newsletter", "web dev", 'code with abdo "newsletter"'],
 };
 
 export default function RootLayout({
